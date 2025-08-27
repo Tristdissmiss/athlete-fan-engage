@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+pytrends
+praw
+psaw
+snscrape
+instaloader
+vaderSentiment
+wordcloud
